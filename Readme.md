@@ -6,7 +6,7 @@ The ``json`` file (by default, ``items.json``) acts as a local cache of the Zote
 
 To force an update of the cached Zotero library information, simply delete the existing ``json`` cache file.
 
-Also included is a simple [``Bash``](https://www.gnu.org/software/bash/) script demonstrating how to fetch the ``json'' cache file outside of the Python script using the standard [``curl``](https://curl.se) utility.
+Also included is a simple [``Bash``](https://www.gnu.org/software/bash/) script demonstrating how to fetch the ``json`` cache file outside of the Python script using the standard [``curl``](https://curl.se) utility.
 
 ### Prerequisites:
 
