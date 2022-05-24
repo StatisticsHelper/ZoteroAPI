@@ -16,7 +16,7 @@ Also included is a simple [``Bash``](https://www.gnu.org/software/bash/) script 
 
 ### Usage
 
-*Important note*: You will have to insert your own [Zotero access key](https://www.zotero.org/support/dev/web_api/v3/basics) for the variable ``api_key`` in the ``test.py`` script.
+*Important note*: You will have to insert your own [Zotero access key](https://www.zotero.org/support/dev/web_api/v3/basics) for the variable ``api_key`` in the ``test.py`` script. The same applies to the ``test.sh`` Bsh script!
 
 Assuming you have the ``Pyzotero`` module installed, simply type ``python3 test.py`` in an appropriate shell (I tested it with [``Bash''](https://www.gnu.org/software/bash/), but other shells should work just fine).
 
